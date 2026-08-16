@@ -1,0 +1,11 @@
+{
+  "slug": "lucky-machine",
+  "title": "꽝 없는 뽑기 기계",
+  "description": "꽝이 없다는 뽑기 기계 앞에서 시작되는 이야기",
+  "longDescription": "골목에 서 있는 낡은 뽑기 기계 하나에서 시작되는 짧은 이야기 게임입니다. 꽝이 없다는 그 기계를 돌리면서 이야기가 조금씩 펼쳐지고, 플레이어의 선택에 따라 결말이 달라집니다. HTML 파일 하나 안에 이야기와 연출을 전부 담아 만들었습니다.",
+  "emoji": "🎰",
+  "techStack": ["JavaScript", "HTML", "CSS"],
+  "category": "비주얼 노벨",
+  "createdAt": "2026-02",
+  "featured": false
+}
